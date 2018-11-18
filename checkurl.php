@@ -1,4 +1,5 @@
-<?php //php 7.0.co.in
+<?php //php 7.0.co.in 
+//testing
 ini_set('display_errors', 0);
 $print=$_GET['print'];
 date_default_timezone_set("Asia/Kolkata");
