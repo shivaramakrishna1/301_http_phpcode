@@ -5,7 +5,7 @@ $print=$_GET['print'];
 date_default_timezone_set("Asia/Kolkata");
 
 //add url's in the below array
- $url_list=array('https://www.google.co.in','https://www.fb.com','https://www.youtub smnd fsd nfmn nxcvxchvxjhvxjhhhdsdjfvsdfvsjdfvsjdvfsjdfvsjdfhvsjdfhvsjdfvjsdfvsjdhvcvjhxcdsfmvzbxnvcznxjhd smdf hsdfsdfsjdhvfsjdksbdfbjsdfvje.com','https://pogo.com');
+ $url_list=array('http://18.223.186.74/shiva.html');
   
   // add for remaining status code with relevent  message in the below in similar manner
   $statuscodes['200']='Success';
