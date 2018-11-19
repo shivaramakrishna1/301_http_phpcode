@@ -4,8 +4,10 @@ ini_set('display_errors', 0);
 $print=$_GET['print'];
 date_default_timezone_set("Asia/Kolkata");
 
-
+//add url's in the below array
  $url_list=array('https://www.google.co.in','https://www.fb.com','https://www.youtub smnd fsd nfmn nxcvxchvxjhvxjhhhdsdjfvsdfvsjdfvsjdvfsjdfvsjdfhvsjdfhvsjdfvjsdfvsjdhvcvjhxcdsfmvzbxnvcznxjhd smdf hsdfsdfsjdhvfsjdksbdfbjsdfvje.com','https://pogo.com');
+  
+  // add for remaining status code with relevent  message in the below in similar manner
   $statuscodes['200']='Success';
   $statuscodes['404']='Page Not Found';
   $statuscodes['302']='Temporary Redirected';
